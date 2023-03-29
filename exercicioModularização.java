@@ -1,4 +1,5 @@
-
+ /*Desenvolva uma função que recebe as três notas do
+aluno como parâmetro e retorne a sua média. */
 public class exercicioModularização{ 
 
     public static void main( String [] args ){
